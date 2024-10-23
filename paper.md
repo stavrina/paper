@@ -1,6 +1,6 @@
 # A first course in git
 
-Authors: Stavrina Dimosthenous, Big TB
+Authors: Stavrina Dimosthenous, Big TB, Mohammad Eizeddin
 
 ## Introduction
 
