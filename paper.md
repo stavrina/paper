@@ -9,8 +9,6 @@ We are using Gerard Capes' teaching notes for this course - [link here](gcapes.g
 
 I am finding this quite enjoyable.
 
-Let's get hyped for the afternoon.
-
 ## Afternoon impressions
 
 We are in the afternoon hours now. In the northern hemisphere. We just found out they will have to redo their helicopters.
