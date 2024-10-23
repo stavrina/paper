@@ -12,3 +12,4 @@ I am finding this quite enjoyable.
 ## Afternoon impressions
 
 We are in the afternoon hours now. In the northern hemisphere. We just found out they will have to redo their helicopters.
+Since we are in the northern hemisphere, it is quite dark, already.
