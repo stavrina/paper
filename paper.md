@@ -1,6 +1,6 @@
 # A first course in git
 
-Authors: Stavrina Dimosthenous
+Authors: Stavrina Dimosthenous, Mohammad Eizeddin
 
 ## Introduction
 
